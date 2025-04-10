@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "imageUrl": "https://m.media-amazon.com/images/I/71smIoGNeiL._UF1000,1000_QL80_.jpg",
+    "description": "A classic novel about racial injustice in the American South."
+  },
+  {
+    "id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rpa1-kyvL.jpg",
+    "description": "A dystopian novel set in a totalitarian society."
+  },
+  {
+    "id": "3",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "imageUrl": "https://m.media-amazon.com/images/I/81TLiZrasVL.jpg",
+    "description": "A novel about the American Dream during the Roaring Twenties."
+  },
+  {
+    "id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "imageUrl": "https://m.media-amazon.com/images/I/81a3sr-RgdL.jpg",
+    "description": "A romantic novel about social manners and marriage in early 19th-century England."
+  },
+  {
+    "id": "5",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "imageUrl": "https://m.media-amazon.com/images/I/71V2v2GtAtL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A fantasy novel about the adventures of Bilbo Baggins."
+  },
+  {
+    "id": "6",
+    "title": "men are from mars women are from venus",
+    "author": "John Gray",
+    "imageUrl": "https://m.media-amazon.com/images/I/81RfW9mFkEL.jpg",
+    "description": null
+  }
+]
